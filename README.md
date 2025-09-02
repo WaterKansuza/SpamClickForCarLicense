@@ -7,4 +7,9 @@ Vietnamese:
   Cách sử dụng:
    - Scale web của bạn ở 80%
    - Nếu bạn muốn nó chạy ở những bài tập khác thì cần thay phần luyện tất cả vì ở mỗi bài tập sẽ có số câu hỏi khác nhau.
+   - Thay đổi đường dẫn đến từng file nơi bạn lưu ảnh ở những nơi có ~safe_locate(r"")~
    - Chúc bạn học tập vui vẻ
+
+Cách tìm đường dẫn:
+ - B1: Mở folder bạn lưu ảnh vào.
+ - B2: chuột phải vào ảnh bạn cần tìm đường dẫn rồi nhấn "Copy as Path" hoặc sử dụng phím tắt Ctrl + Shift + C.
