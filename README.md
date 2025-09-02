@@ -13,3 +13,8 @@ Vietnamese:
 Cách tìm đường dẫn:
  - B1: Mở folder bạn lưu ảnh vào.
  - B2: chuột phải vào ảnh bạn cần tìm đường dẫn rồi nhấn "Copy as Path" hoặc sử dụng phím tắt Ctrl + Shift + C.
+
+Cách tải code về máy:
+ - B1: Mở cmd
+ - B2: Điều hướng đến file bạn muốn clone về máy sử "cd\ " để điều hướng trong cmd
+ - B3: Copy và Paste -> git clone https://github.com/WaterKansuza/SpamClickForCarLicense/edit/main/README.md
